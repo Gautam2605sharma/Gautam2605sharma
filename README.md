@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Web development 
 - 💬 Ask me about your queries and i am ready to solve them 
 - 📫 How to reach me: Gautam2605sharma@gmail.com
-- ⚡ Fun fact: I want to be a kid again 
+ 
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
