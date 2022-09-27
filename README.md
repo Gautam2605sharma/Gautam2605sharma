@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on my coding skills
-- 🌱 I’m currently learning Web development 
+- 🌱 I’m currently learning Python :snake: 
 - 💬 Ask me about your queries and i am ready to solve them 
 - 📫 How to reach me: Gautam2605sharma@gmail.com
  
