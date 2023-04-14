@@ -1,20 +1,24 @@
-### Hi there 👋 I'm Gautam :innocent:
+<h1 align="center">Hi 👋, I'm Gautam</h1>
+<h3 align="center">Data Enthusiast</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautam2605sharma" alt="gautam2605sharma" /></a> </p>
 
+- 📫 How to reach me **gautam2605sharma@gmail.com**
 
-- 🔭 I’m currently working on my coding skills
-- 🌱 I’m currently learning basics of Python :snake: 
-- 💬 Ask me about your queries and i am ready to solve them 
-- 📫 How to reach me: Gautam2605sharma@gmail.com
- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gautam2605sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautam2605sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautam2605sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam2605sharma" height="30" width="40" /></a>
+</p>
 
-### 🛠 &nbsp;Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-⚙️ &nbsp;GitHub Analytics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautam2605sharma&show_icons=true&locale=en&layout=compact" alt="gautam2605sharma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam2605sharma&show_icons=true&locale=en" alt="gautam2605sharma" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2605sharma&" alt="gautam2605sharma" /></p>
 
 
 
